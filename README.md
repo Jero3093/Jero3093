@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 19 years old Junior Front-End Developer. I'm searching for job oportunities to increase my habilities in coding and make better proyects.
+I'm a 19 years old Junior Front-End Developer with React and React Native. I'm searching for job oportunities to increase my habilities in coding and make better proyects.
 
 
 ## 🌐 Socials:
