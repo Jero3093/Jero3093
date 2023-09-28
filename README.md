@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a 19 years old Junior Front-End Developer with React and React Native. I'm searching for job oportunities to increase my habilities in coding and make better proyects.
 
-If you got questions about my proyects or my services please contact me.
+If you got questions about my proyects or my services please contact me and i will answer it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jero_tornini_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
