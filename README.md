@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 19 years old Junior Front-End Developer with 2 years of exeprience on React and React Native. I'm searching for job oportunities to increase my habilities in coding and make better proyects.
+I'm a 20 years old Junior Front-End Developer with 2 years of exeprience on React and React Native. I'm searching for job oportunities to increase my habilities in coding and make better proyects.
 
 If you got questions about my proyects or my services please contact me and i will answer it.
 
